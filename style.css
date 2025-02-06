@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(204, 243, 253);
+    font-family: "Times New Roman", Times, serif;
+}
+
+.wrapper {
+    margin-top: 80px;
+    align-content: center;
+    column-count: 3;
+}
+
+h1 {
+    text-align: right;
+    margin-bottom: 50px;
+}
+
+p {
+    text-align: right;
+}
+
+canvas {
+    padding: 0;
+    display: block;
+    border-radius: 1%;
+    box-shadow: 0 0 5px rgba(0, 0, 0);
+    margin: 40px;
+}
